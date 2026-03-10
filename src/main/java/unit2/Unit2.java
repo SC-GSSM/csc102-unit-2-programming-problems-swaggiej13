@@ -35,7 +35,7 @@ public class Unit2 {
      */
     public static String toUpperCase(String str) {
         // TODO: Implement this method using String.toUpperCase
-        return str.toUpperCase(str);
+        return str.toUpperCase();
     }
 
     /**
